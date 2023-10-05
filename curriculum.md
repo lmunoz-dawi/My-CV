@@ -28,9 +28,14 @@ Tecnico en Sistemas Informàticos y Redes
  # EDUCACIÓN PREVIA
 IES Josep Sureda I Blanes
 > EDUCACIÓN SECUNDÁRIA OBLIGATORIA
-* 
+* Experiencia con aplicaciones ofimáticas
 * 4 Años de experiencia en idiomas: Ingles, Frances, Catalán
 
-## * CIFP Francesc De Borja Moll
-  * 
+CIFP Francesc De Borja Moll
+> FORMACIÓN PROFESIONAL DE GRADO MEDIO EN SISTEMAS MICROINFORMATICOS Y REDES
+* FP Superior de Desarrollo de Aplicaciones Web DUAL (Cursando actualmente)
+* FP Medio de Sistemas Microinformaticos y Redes (Cursado)
+  * Media de 9
+  * Ligera experiencia en programación y redes locales
+  * Conocimiento de mantenimiento y montaje de equipos
  
