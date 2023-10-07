@@ -2,6 +2,8 @@
 
 Tecnico en Sistemas Informàticos y Redes
 
+![Lluís](https://github.com/lmunoz-dawi/llm-dawi/blob/main/Imagen%20curriculum.jpg)
+
 # **INFORMACIÓN DE CONTACTO**
 > +34 678 03 77 75
 > Calle Aragón, 115, Planta Baja 07005 Palma de Mallorca, España
