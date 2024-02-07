@@ -1,3 +1,3 @@
 # Curriculum Vitaw
-Desarrollo de Aplicaciones Web Dual
+Desarrollador de Aplicaciones Web Dual
 > Lluís Muñoz Barceló
