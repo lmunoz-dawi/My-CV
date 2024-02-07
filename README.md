@@ -1,3 +1,3 @@
-# llm-dawi
-Llenguatge de Marques DAW INT
+# Curriculum Vitaw
+Desarrollo de Aplicaciones Web Dual
 > Lluís Muñoz Barceló
